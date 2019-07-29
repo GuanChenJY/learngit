@@ -1,2 +1,3 @@
 gcc is good.
 gcc is excellent.
+gcc is to be a good man.
