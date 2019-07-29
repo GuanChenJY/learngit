@@ -2,4 +2,4 @@ gcc is good.
 gcc is excellent.
 gcc is to be a good man.
 git tracks changes of files
-creating a new branch is quick & simple.
+creating a new branch is quick and simple.
