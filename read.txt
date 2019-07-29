@@ -1,0 +1,2 @@
+gcc is good.
+gcc is excellent.
